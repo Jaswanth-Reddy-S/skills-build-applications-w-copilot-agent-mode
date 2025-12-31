@@ -1,4 +1,24 @@
-.DS_Store
+# Python venv
+octofit-tracker/backend/venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Environment files
+.env.DS_Store
 
 # Virtual Environment
 venv
